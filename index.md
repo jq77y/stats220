@@ -33,7 +33,7 @@ I made it by myself and it is very easy to do that, just need some steps:*
 
 
 ### Code of my meme
-Below is code to create the labrador image and useing the R package [magick](https://cran.r-project.org/web/packages/magick/vignettes/intro.html).
+Below is code to create the labrador meme and useing the R package [magick](https://cran.r-project.org/web/packages/magick/vignettes/intro.html).
 
 ```r
 library(magick)
