@@ -7,8 +7,8 @@ This is my information repo.
 If you are also learning this course
 
 * I'm happy to make some new friends.
-* Watch my stats220 repo to see what I am doing for assignment.[stats220]
-* We can also discuss some 
+* Watch my stats220 repo to see what I am doing for assignment.（[stats220](https://github.com/jq77y/stats220)）
+
 
 
 
