@@ -11,6 +11,6 @@ If you are also learning this course
 
 Now, you can have a look for my [meme web](https://github.com/jq77y/stats220/blob/main/index.md), this is one of important part about my aissgnment1.
 
-**Finilly, hope you guys doing well in your assignment!**
+**Finally, hope you guys doing well in your assignment!**
 
 ![](https://media1.giphy.com/media/j1Xyt3DHfJcmk/200w.gif?cid=82a1493buhsntb4b97tmnl94oyhgxy57j1j9cgnpmxbtennc&rid=200w.gif&ct=g)
