@@ -13,7 +13,7 @@ This website is about labrador dogs. The reson why I chose this topic is that I 
 
 ## Meme of labrador
 
-**The resone to make the labrador meme**
+**Important thing: Why create the meme**
 
 To show the difference about puppy labrador to adult labrador.
 
@@ -88,4 +88,5 @@ final_image
 
 
 
-
+## End
+**This is the end of my website, I hope you like it**
