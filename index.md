@@ -11,13 +11,13 @@ Briefly introduce myself:
 
 This website is about labrador dogs. The reson why I chose this topic is that I have a cute labrador, and I want to introduce labrador to more people.
 
-## Image of labrador
+## Meme of labrador
 
-**The resone to make the labrador image**
+**The resone to make the labrador meme**
 
 To show the difference about puppy labrador to adult labrador.
 
-*The image below is a labrador from a puppy dog to a adult dog. 
+*The meme below is a labrador from a puppy dog to a adult dog. 
 I made it by myself and it is very easy to do that, just need some steps:*
 
 1. Find a puppy labrador image, and sclaed it to 500 * 500
@@ -32,7 +32,7 @@ I made it by myself and it is very easy to do that, just need some steps:*
 ![](https://github.com/jq77y/stats220/blob/main/my_meme.png)
 
 
-### Code of my image
+### Code of my meme
 Below is code to create the labrador image and useing the R package [magick](https://cran.r-project.org/web/packages/magick/vignettes/intro.html).
 
 ```r
