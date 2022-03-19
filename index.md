@@ -89,4 +89,4 @@ final_image
 
 
 ## End
-**This is the end of my website, I hope you like it**
+**This is the end of my website, hope you like it**
