@@ -37,14 +37,12 @@ Below is code to create the labrador meme and useing the R package [magick](http
 
 ```r
 library(magick)
+
 puppy_labrador <- image_read("https://i.pinimg.com/originals/dd/da/89/ddda899cbe2e18766ca1797806efe8b8.jpg") %>%
   image_scale(500)
 
-
 adult_labradors <- image_read("https://i.pinimg.com/736x/05/d2/20/05d220bf723f6338d99f653070ac9a06--yellow-labs.jpg") %>%
   image_scale(500)
-
-
 
 puppy_labradors_text <- image_blank(width = 500, 
                                     height = 500, 
@@ -78,6 +76,8 @@ final_image <- c(first_row, second_row) %>%
   image_append(stack = TRUE)
 
 final_image
+
+image_write(final_image, "my_meme.png")
 
 ```
 
