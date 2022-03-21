@@ -20,9 +20,9 @@ To show the difference about puppy labrador to adult labrador.
 *The meme below is a labrador from a puppy dog to a adult dog. 
 I made it by myself and it is very easy to do that, just need some steps:*
 
-1. Find a puppy labrador image, and sclaed it to 500 * 500
+1. Find a puppy labrador image, and sclaed it
 2. Create a blank square(500 * 500) and then annotate puppy labrador which is puppy labrador text square 
-3. Find a adult labrador image, and sclaed it to 500 * 500
+3. Find a adult labrador image, and sclaed it
 4. Create a blank square(500 * 500) and then annotate adult labrador which is adult labrador text square
 5. Put puppy labrador image and puppy labrador text square side by side and it is first row
 6. Put adult labrador image and adult labrador text square side by side and it is second row
