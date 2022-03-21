@@ -9,7 +9,7 @@ If you are also learning this course
 * You can watch my stats220 repository to see what I am doing for all assignments.（[stats220](https://github.com/jq77y/stats220)）
 * If you like my idea, you can follow me([jq77y](https://github.com/jq77y)), and I will do more work. 
 
-Now, you can have a look for my [meme web](https://github.com/jq77y/stats220/blob/main/index.md), this is one of important part about my aissgnment1.
+Now, you can have a look for my [meme web](https://github.com/jq77y/stats220/blob/main/index.md), this is one of important parts about my aissgnment1.
 
 **Finally, hope you guys doing well in your assignment!**
 
